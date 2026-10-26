@@ -1,0 +1,3265 @@
+[
+  {
+    "name": "home",
+    "width": 1440,
+    "title": "Bot Verification",
+    "url": "https://kinsley.bslthemes.com/",
+    "height": 230,
+    "headings": [
+      {
+        "text": "Verifying that you are not a robot...",
+        "y": 182
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": ""
+      }
+    ]
+  },
+  {
+    "name": "home",
+    "width": 390,
+    "title": "Bot Verification",
+    "url": "https://kinsley.bslthemes.com/",
+    "height": 257,
+    "headings": [
+      {
+        "text": "Verifying that you are not a robot...",
+        "y": 77
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "about",
+    "width": 1440,
+    "title": "About – Kinsley – Hotel & Resort Live Demo | bslthemes",
+    "url": "https://kinsley.bslthemes.com/about/",
+    "height": 6190,
+    "headings": [
+      {
+        "text": "About our Hotel",
+        "y": 277
+      },
+      {
+        "text": "What We Offer For You",
+        "y": 1136
+      },
+      {
+        "text": "Start your Amazing Adventure!",
+        "y": 1912
+      },
+      {
+        "text": "Our awesome Team",
+        "y": 2385
+      },
+      {
+        "text": "Emma Newman",
+        "y": 2972
+      },
+      {
+        "text": "Paul Trueman",
+        "y": 2972
+      },
+      {
+        "text": "Viktoria Freeman",
+        "y": 2972
+      },
+      {
+        "text": "Sofia Oldman",
+        "y": 2972
+      },
+      {
+        "text": "Our services",
+        "y": 3192
+      },
+      {
+        "text": "Summer Terrace",
+        "y": 3891
+      },
+      {
+        "text": "Gym",
+        "y": 3891
+      },
+      {
+        "text": "Pool",
+        "y": 3891
+      },
+      {
+        "text": "Feedback from our Guests",
+        "y": 4076
+      },
+      {
+        "text": "Oscar Newman",
+        "y": 4440
+      },
+      {
+        "text": "Emma Trueman",
+        "y": 4404
+      },
+      {
+        "text": "Viktoria Freeman",
+        "y": 4440
+      },
+      {
+        "text": "Paul Oldman",
+        "y": 4440
+      },
+      {
+        "text": "Our Newsletter",
+        "y": 4730
+      },
+      {
+        "text": "Search your Room",
+        "y": 365
+      },
+      {
+        "text": "Table Reservation",
+        "y": 391
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #1",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #2",
+        "url": "https://kinsley.bslthemes.com/home-2/"
+      },
+      {
+        "text": "Home #3",
+        "url": "https://kinsley.bslthemes.com/home-3/"
+      },
+      {
+        "text": "About",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services-list/"
+      },
+      {
+        "text": "404",
+        "url": "https://kinsley.bslthemes.com/kinsley/404/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #1",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #2",
+        "url": "https://kinsley.bslthemes.com/accommodations-2/"
+      },
+      {
+        "text": "Rooms List #3",
+        "url": "https://kinsley.bslthemes.com/rooms-3/"
+      },
+      {
+        "text": "Rooms List #4",
+        "url": "https://kinsley.bslthemes.com/rooms-4/"
+      },
+      {
+        "text": "Rooms List #5",
+        "url": "https://kinsley.bslthemes.com/rooms-5/"
+      },
+      {
+        "text": "Room Details",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "Search Availability",
+        "url": "https://kinsley.bslthemes.com/search-availability/"
+      },
+      {
+        "text": "Booking Account",
+        "url": "https://kinsley.bslthemes.com/booking-account/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Our Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Menu #1",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Menu #2",
+        "url": "https://kinsley.bslthemes.com/menu-list/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog List",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog Single",
+        "url": "https://kinsley.bslthemes.com/2021/10/20/the-best-travel-insurance-companies-for-seniors/"
+      },
+      {
+        "text": "Shop",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product List",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product Single",
+        "url": "https://kinsley.bslthemes.com/product/v-neck-t-shirt/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://kinsley.bslthemes.com/cart/"
+      },
+      {
+        "text": "Checkout",
+        "url": "https://kinsley.bslthemes.com/checkout/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/about/#booknow"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About",
+        "url": ""
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services/"
+      },
+      {
+        "text": "Watch video",
+        "url": "https://www.youtube.com/watch?v=wsq-r8lMMsk"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services/"
+      },
+      {
+        "text": "Read more\nRead more Summer Terrace",
+        "url": "https://kinsley.bslthemes.com/services/summer-terrace/"
+      },
+      {
+        "text": "Read more\nRead more Gym",
+        "url": "https://kinsley.bslthemes.com/services/gym/"
+      },
+      {
+        "text": "Read more\nRead more Pool",
+        "url": "https://kinsley.bslthemes.com/services/pool/"
+      },
+      {
+        "text": "All Publications",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "Read moreRead more The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "Read moreRead more The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Read moreRead more 18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Menu",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "bslthemes Team",
+        "url": "https://bslthemes.com/"
+      },
+      {
+        "text": "Close Panel",
+        "url": "https://kinsley.bslthemes.com/about/#close"
+      },
+      {
+        "text": "Remove Panel",
+        "url": "https://kinsley.bslthemes.com/about/#remove"
+      },
+      {
+        "text": "Help",
+        "url": "https://kinsley.bslthemes.com/about/#help"
+      },
+      {
+        "text": "Buy Theme",
+        "url": "https://bslthemes.com/products/kinsley-hotel-wordpress-theme/?utm_source=sticky_panel&utm_medium=referral&utm_campaign=sticky_panel"
+      },
+      {
+        "text": "Demo / Related",
+        "url": "https://kinsley.bslthemes.com/about/#related"
+      }
+    ],
+    "sliders": [],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": "knsl-preloader-frame knsl-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-minicart-window"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-team-card knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-team-card knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-team-card knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-team-card knsl-scroll-animation"
+      },
+      {
+        "tag": "P",
+        "class": ""
+      },
+      {
+        "tag": "P",
+        "class": ""
+      },
+      {
+        "tag": "P",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "class": "swiper-slider knsl-testimonials-slider knsl-scroll-animation swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress swiper-backface-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      }
+    ]
+  },
+  {
+    "name": "about",
+    "width": 390,
+    "title": "About – Kinsley – Hotel & Resort Live Demo | bslthemes",
+    "url": "https://kinsley.bslthemes.com/about/",
+    "height": 12773,
+    "headings": [
+      {
+        "text": "About our Hotel",
+        "y": 286
+      },
+      {
+        "text": "What We Offer For You",
+        "y": 1437
+      },
+      {
+        "text": "Start your Amazing Adventure!",
+        "y": 3011
+      },
+      {
+        "text": "Our awesome Team",
+        "y": 3724
+      },
+      {
+        "text": "Emma Newman",
+        "y": 4478
+      },
+      {
+        "text": "Paul Trueman",
+        "y": 5103
+      },
+      {
+        "text": "Viktoria Freeman",
+        "y": 5728
+      },
+      {
+        "text": "Sofia Oldman",
+        "y": 6353
+      },
+      {
+        "text": "Our services",
+        "y": 6573
+      },
+      {
+        "text": "Summer Terrace",
+        "y": 7313
+      },
+      {
+        "text": "Gym",
+        "y": 7808
+      },
+      {
+        "text": "Pool",
+        "y": 8303
+      },
+      {
+        "text": "Feedback from our Guests",
+        "y": 8488
+      },
+      {
+        "text": "Oscar Newman",
+        "y": 8968
+      },
+      {
+        "text": "Emma Trueman",
+        "y": 8926
+      },
+      {
+        "text": "Viktoria Freeman",
+        "y": 8968
+      },
+      {
+        "text": "Paul Oldman",
+        "y": 8968
+      },
+      {
+        "text": "Our Newsletter",
+        "y": 9305
+      },
+      {
+        "text": "Search your Room",
+        "y": 565
+      },
+      {
+        "text": "Table Reservation",
+        "y": 591
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #1",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #2",
+        "url": "https://kinsley.bslthemes.com/home-2/"
+      },
+      {
+        "text": "Home #3",
+        "url": "https://kinsley.bslthemes.com/home-3/"
+      },
+      {
+        "text": "About",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services-list/"
+      },
+      {
+        "text": "404",
+        "url": "https://kinsley.bslthemes.com/kinsley/404/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #1",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #2",
+        "url": "https://kinsley.bslthemes.com/accommodations-2/"
+      },
+      {
+        "text": "Rooms List #3",
+        "url": "https://kinsley.bslthemes.com/rooms-3/"
+      },
+      {
+        "text": "Rooms List #4",
+        "url": "https://kinsley.bslthemes.com/rooms-4/"
+      },
+      {
+        "text": "Rooms List #5",
+        "url": "https://kinsley.bslthemes.com/rooms-5/"
+      },
+      {
+        "text": "Room Details",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "Search Availability",
+        "url": "https://kinsley.bslthemes.com/search-availability/"
+      },
+      {
+        "text": "Booking Account",
+        "url": "https://kinsley.bslthemes.com/booking-account/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Our Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Menu #1",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Menu #2",
+        "url": "https://kinsley.bslthemes.com/menu-list/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog List",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog Single",
+        "url": "https://kinsley.bslthemes.com/2021/10/20/the-best-travel-insurance-companies-for-seniors/"
+      },
+      {
+        "text": "Shop",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product List",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product Single",
+        "url": "https://kinsley.bslthemes.com/product/v-neck-t-shirt/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://kinsley.bslthemes.com/cart/"
+      },
+      {
+        "text": "Checkout",
+        "url": "https://kinsley.bslthemes.com/checkout/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/about/#booknow"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/about/#booknow"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About",
+        "url": ""
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services/"
+      },
+      {
+        "text": "Watch video",
+        "url": "https://www.youtube.com/watch?v=wsq-r8lMMsk"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services/"
+      },
+      {
+        "text": "Read more\nRead more Summer Terrace",
+        "url": "https://kinsley.bslthemes.com/services/summer-terrace/"
+      },
+      {
+        "text": "Read more\nRead more Gym",
+        "url": "https://kinsley.bslthemes.com/services/gym/"
+      },
+      {
+        "text": "Read more\nRead more Pool",
+        "url": "https://kinsley.bslthemes.com/services/pool/"
+      },
+      {
+        "text": "All Publications",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "Read moreRead more The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "Read moreRead more The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Read moreRead more 18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Menu",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "bslthemes Team",
+        "url": "https://bslthemes.com/"
+      },
+      {
+        "text": "Close Panel",
+        "url": "https://kinsley.bslthemes.com/about/#close"
+      },
+      {
+        "text": "Remove Panel",
+        "url": "https://kinsley.bslthemes.com/about/#remove"
+      },
+      {
+        "text": "Help",
+        "url": "https://kinsley.bslthemes.com/about/#help"
+      },
+      {
+        "text": "Buy Theme",
+        "url": "https://bslthemes.com/products/kinsley-hotel-wordpress-theme/?utm_source=sticky_panel&utm_medium=referral&utm_campaign=sticky_panel"
+      },
+      {
+        "text": "Demo / Related",
+        "url": "https://kinsley.bslthemes.com/about/#related"
+      }
+    ],
+    "sliders": [],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": "knsl-preloader-frame knsl-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "elementor-element elementor-element-4e17e98 elementor-widget elementor-widget-kinsley-header-menu"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-minicart-window"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-team-card knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-team-card knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-team-card knsl-scroll-animation"
+      },
+      {
+        "tag": "P",
+        "class": ""
+      },
+      {
+        "tag": "P",
+        "class": ""
+      },
+      {
+        "tag": "P",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "class": "swiper-slider knsl-testimonials-slider knsl-scroll-animation swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress swiper-backface-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      }
+    ]
+  },
+  {
+    "name": "faq",
+    "width": 1440,
+    "title": "FAQ – Kinsley – Hotel & Resort Live Demo | bslthemes",
+    "url": "https://kinsley.bslthemes.com/faq/",
+    "height": 4564,
+    "headings": [
+      {
+        "text": "Frequently Asked Questions",
+        "y": 277
+      },
+      {
+        "text": "Categories",
+        "y": 680
+      },
+      {
+        "text": "Beach",
+        "y": 680
+      },
+      {
+        "text": "Hotel",
+        "y": 1043
+      },
+      {
+        "text": "Payment",
+        "y": 1406
+      },
+      {
+        "text": "Services",
+        "y": 1768
+      },
+      {
+        "text": "Terms and conditions",
+        "y": 2131
+      },
+      {
+        "text": "Didn't find the answer?",
+        "y": 2494
+      },
+      {
+        "text": "Our Newsletter",
+        "y": 3104
+      },
+      {
+        "text": "Search your Room",
+        "y": 365
+      },
+      {
+        "text": "Table Reservation",
+        "y": 391
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #1",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #2",
+        "url": "https://kinsley.bslthemes.com/home-2/"
+      },
+      {
+        "text": "Home #3",
+        "url": "https://kinsley.bslthemes.com/home-3/"
+      },
+      {
+        "text": "About",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services-list/"
+      },
+      {
+        "text": "404",
+        "url": "https://kinsley.bslthemes.com/kinsley/404/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #1",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #2",
+        "url": "https://kinsley.bslthemes.com/accommodations-2/"
+      },
+      {
+        "text": "Rooms List #3",
+        "url": "https://kinsley.bslthemes.com/rooms-3/"
+      },
+      {
+        "text": "Rooms List #4",
+        "url": "https://kinsley.bslthemes.com/rooms-4/"
+      },
+      {
+        "text": "Rooms List #5",
+        "url": "https://kinsley.bslthemes.com/rooms-5/"
+      },
+      {
+        "text": "Room Details",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "Search Availability",
+        "url": "https://kinsley.bslthemes.com/search-availability/"
+      },
+      {
+        "text": "Booking Account",
+        "url": "https://kinsley.bslthemes.com/booking-account/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Our Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Menu #1",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Menu #2",
+        "url": "https://kinsley.bslthemes.com/menu-list/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog List",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog Single",
+        "url": "https://kinsley.bslthemes.com/2021/10/20/the-best-travel-insurance-companies-for-seniors/"
+      },
+      {
+        "text": "Shop",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product List",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product Single",
+        "url": "https://kinsley.bslthemes.com/product/v-neck-t-shirt/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://kinsley.bslthemes.com/cart/"
+      },
+      {
+        "text": "Checkout",
+        "url": "https://kinsley.bslthemes.com/checkout/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/faq/#booknow"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "FAQ",
+        "url": ""
+      },
+      {
+        "text": "Beach",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-160"
+      },
+      {
+        "text": "Hotel",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-171"
+      },
+      {
+        "text": "Payment",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-180"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-185"
+      },
+      {
+        "text": "Terms and conditions",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-189"
+      },
+      {
+        "text": "All Publications",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "Read moreRead more The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "Read moreRead more The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Read moreRead more 18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Menu",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "bslthemes Team",
+        "url": "https://bslthemes.com/"
+      },
+      {
+        "text": "Close Panel",
+        "url": "https://kinsley.bslthemes.com/faq/#close"
+      },
+      {
+        "text": "Remove Panel",
+        "url": "https://kinsley.bslthemes.com/faq/#remove"
+      },
+      {
+        "text": "Help",
+        "url": "https://kinsley.bslthemes.com/faq/#help"
+      },
+      {
+        "text": "Buy Theme",
+        "url": "https://bslthemes.com/products/kinsley-hotel-wordpress-theme/?utm_source=sticky_panel&utm_medium=referral&utm_campaign=sticky_panel"
+      },
+      {
+        "text": "Demo / Related",
+        "url": "https://kinsley.bslthemes.com/faq/#related"
+      }
+    ],
+    "sliders": [],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": "knsl-preloader-frame knsl-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-minicart-window"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      }
+    ]
+  },
+  {
+    "name": "faq",
+    "width": 390,
+    "title": "FAQ – Kinsley – Hotel & Resort Live Demo | bslthemes",
+    "url": "https://kinsley.bslthemes.com/faq/",
+    "height": 7050,
+    "headings": [
+      {
+        "text": "Frequently Asked Questions",
+        "y": 257
+      },
+      {
+        "text": "Categories",
+        "y": 680
+      },
+      {
+        "text": "Beach",
+        "y": 1074
+      },
+      {
+        "text": "Hotel",
+        "y": 1437
+      },
+      {
+        "text": "Payment",
+        "y": 1799
+      },
+      {
+        "text": "Services",
+        "y": 2176
+      },
+      {
+        "text": "Terms and conditions",
+        "y": 2539
+      },
+      {
+        "text": "Didn't find the answer?",
+        "y": 2901
+      },
+      {
+        "text": "Our Newsletter",
+        "y": 3582
+      },
+      {
+        "text": "Search your Room",
+        "y": 378
+      },
+      {
+        "text": "Table Reservation",
+        "y": 404
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #1",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #2",
+        "url": "https://kinsley.bslthemes.com/home-2/"
+      },
+      {
+        "text": "Home #3",
+        "url": "https://kinsley.bslthemes.com/home-3/"
+      },
+      {
+        "text": "About",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services-list/"
+      },
+      {
+        "text": "404",
+        "url": "https://kinsley.bslthemes.com/kinsley/404/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #1",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #2",
+        "url": "https://kinsley.bslthemes.com/accommodations-2/"
+      },
+      {
+        "text": "Rooms List #3",
+        "url": "https://kinsley.bslthemes.com/rooms-3/"
+      },
+      {
+        "text": "Rooms List #4",
+        "url": "https://kinsley.bslthemes.com/rooms-4/"
+      },
+      {
+        "text": "Rooms List #5",
+        "url": "https://kinsley.bslthemes.com/rooms-5/"
+      },
+      {
+        "text": "Room Details",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "Search Availability",
+        "url": "https://kinsley.bslthemes.com/search-availability/"
+      },
+      {
+        "text": "Booking Account",
+        "url": "https://kinsley.bslthemes.com/booking-account/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Our Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Menu #1",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Menu #2",
+        "url": "https://kinsley.bslthemes.com/menu-list/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog List",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog Single",
+        "url": "https://kinsley.bslthemes.com/2021/10/20/the-best-travel-insurance-companies-for-seniors/"
+      },
+      {
+        "text": "Shop",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product List",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product Single",
+        "url": "https://kinsley.bslthemes.com/product/v-neck-t-shirt/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://kinsley.bslthemes.com/cart/"
+      },
+      {
+        "text": "Checkout",
+        "url": "https://kinsley.bslthemes.com/checkout/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/faq/#booknow"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/faq/#booknow"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "FAQ",
+        "url": ""
+      },
+      {
+        "text": "Beach",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-160"
+      },
+      {
+        "text": "Hotel",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-171"
+      },
+      {
+        "text": "Payment",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-180"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-185"
+      },
+      {
+        "text": "Terms and conditions",
+        "url": "https://kinsley.bslthemes.com/faq/#faq-189"
+      },
+      {
+        "text": "All Publications",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "Read moreRead more The Ultimate Guide to Traveling When You Have No Money",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-ultimate-guide-to-traveling-when-you-have-no-money-2/"
+      },
+      {
+        "text": "The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "Read moreRead more The Best Travel Insurance Companies for Seniors",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/the-best-travel-insurance-companies-for-seniors-2/"
+      },
+      {
+        "text": "18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Read moreRead more 18 Easy Steps for Planning Your Next Trip",
+        "url": "https://kinsley.bslthemes.com/2021/12/21/18-easy-steps-for-planning-your-next-trip-2/"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Menu",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "bslthemes Team",
+        "url": "https://bslthemes.com/"
+      },
+      {
+        "text": "Close Panel",
+        "url": "https://kinsley.bslthemes.com/faq/#close"
+      },
+      {
+        "text": "Remove Panel",
+        "url": "https://kinsley.bslthemes.com/faq/#remove"
+      },
+      {
+        "text": "Help",
+        "url": "https://kinsley.bslthemes.com/faq/#help"
+      },
+      {
+        "text": "Buy Theme",
+        "url": "https://bslthemes.com/products/kinsley-hotel-wordpress-theme/?utm_source=sticky_panel&utm_medium=referral&utm_campaign=sticky_panel"
+      },
+      {
+        "text": "Demo / Related",
+        "url": "https://kinsley.bslthemes.com/faq/#related"
+      }
+    ],
+    "sliders": [],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": "knsl-preloader-frame knsl-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "elementor-element elementor-element-4e17e98 elementor-widget elementor-widget-kinsley-header-menu"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-minicart-window"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      }
+    ]
+  },
+  {
+    "name": "gallery",
+    "width": 1440,
+    "title": "Gallery – Kinsley – Hotel & Resort Live Demo | bslthemes",
+    "url": "https://kinsley.bslthemes.com/gallery/",
+    "height": 5178,
+    "headings": [
+      {
+        "text": "Photo Gallery",
+        "y": 277
+      },
+      {
+        "text": "Our Best Rooms",
+        "y": 2937
+      },
+      {
+        "text": "Deluxe room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Economy Classic Room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Triple Classic Room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Business Class Room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Royal Class Room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Superior Ocean Room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Standard Room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Double Room",
+        "y": 3600
+      },
+      {
+        "text": "Details",
+        "y": 0
+      },
+      {
+        "text": "Feedback from our Guests",
+        "y": 3941
+      },
+      {
+        "text": "Oscar Newman",
+        "y": 4305
+      },
+      {
+        "text": "Emma Trueman",
+        "y": 4269
+      },
+      {
+        "text": "Viktoria Freeman",
+        "y": 4305
+      },
+      {
+        "text": "Paul Oldman",
+        "y": 4305
+      },
+      {
+        "text": "Search your Room",
+        "y": 365
+      },
+      {
+        "text": "Table Reservation",
+        "y": 391
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #1",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #2",
+        "url": "https://kinsley.bslthemes.com/home-2/"
+      },
+      {
+        "text": "Home #3",
+        "url": "https://kinsley.bslthemes.com/home-3/"
+      },
+      {
+        "text": "About",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services-list/"
+      },
+      {
+        "text": "404",
+        "url": "https://kinsley.bslthemes.com/kinsley/404/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #1",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #2",
+        "url": "https://kinsley.bslthemes.com/accommodations-2/"
+      },
+      {
+        "text": "Rooms List #3",
+        "url": "https://kinsley.bslthemes.com/rooms-3/"
+      },
+      {
+        "text": "Rooms List #4",
+        "url": "https://kinsley.bslthemes.com/rooms-4/"
+      },
+      {
+        "text": "Rooms List #5",
+        "url": "https://kinsley.bslthemes.com/rooms-5/"
+      },
+      {
+        "text": "Room Details",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "Search Availability",
+        "url": "https://kinsley.bslthemes.com/search-availability/"
+      },
+      {
+        "text": "Booking Account",
+        "url": "https://kinsley.bslthemes.com/booking-account/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Our Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Menu #1",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Menu #2",
+        "url": "https://kinsley.bslthemes.com/menu-list/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog List",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog Single",
+        "url": "https://kinsley.bslthemes.com/2021/10/20/the-best-travel-insurance-companies-for-seniors/"
+      },
+      {
+        "text": "Shop",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product List",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product Single",
+        "url": "https://kinsley.bslthemes.com/product/v-neck-t-shirt/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://kinsley.bslthemes.com/cart/"
+      },
+      {
+        "text": "Checkout",
+        "url": "https://kinsley.bslthemes.com/checkout/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/gallery/#booknow"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Gallery",
+        "url": ""
+      },
+      {
+        "text": "All Photos",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "Beach",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "Hotel",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "All rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Deluxe room",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Luxe",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/luxe/"
+      },
+      {
+        "text": "Economy Classic Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/economy-classic-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Economy",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/economy/"
+      },
+      {
+        "text": "Triple Classic Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/triple-classic-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Standard",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/standard/"
+      },
+      {
+        "text": "Business Class Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/business-class-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Luxe",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/luxe/"
+      },
+      {
+        "text": "Royal Class Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/royal-class-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Luxe",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/luxe/"
+      },
+      {
+        "text": "Superior Ocean Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/superior-ocean-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Standard",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/standard/"
+      },
+      {
+        "text": "Standard Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/standard-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Economy",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/economy/"
+      },
+      {
+        "text": "Double Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/double-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Economy",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/economy/"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Menu",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "bslthemes Team",
+        "url": "https://bslthemes.com/"
+      },
+      {
+        "text": "Close Panel",
+        "url": "https://kinsley.bslthemes.com/gallery/#close"
+      },
+      {
+        "text": "Remove Panel",
+        "url": "https://kinsley.bslthemes.com/gallery/#remove"
+      },
+      {
+        "text": "Help",
+        "url": "https://kinsley.bslthemes.com/gallery/#help"
+      },
+      {
+        "text": "Buy Theme",
+        "url": "https://bslthemes.com/products/kinsley-hotel-wordpress-theme/?utm_source=sticky_panel&utm_medium=referral&utm_campaign=sticky_panel"
+      },
+      {
+        "text": "Demo / Related",
+        "url": "https://kinsley.bslthemes.com/gallery/#related"
+      }
+    ],
+    "sliders": [
+      {
+        "class": "swiper-container knsl-uni-slider attr-details-amenity-false attr-details-category-false attr-details-attributes-false attr-details-view-false attr-details-bed-type-false attr-details-children-false swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress swiper-backface-hidden",
+        "width": 1220,
+        "slides": 8,
+        "initialized": true,
+        "params": {
+          "slidesPerView": 3,
+          "spaceBetween": 20,
+          "loop": false
+        }
+      }
+    ],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": "knsl-preloader-frame knsl-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-minicart-window"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "swiper-slider knsl-testimonials-slider knsl-scroll-animation swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress swiper-backface-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      }
+    ]
+  },
+  {
+    "name": "gallery",
+    "width": 390,
+    "title": "Gallery – Kinsley – Hotel & Resort Live Demo | bslthemes",
+    "url": "https://kinsley.bslthemes.com/gallery/",
+    "height": 9326,
+    "headings": [
+      {
+        "text": "Photo Gallery",
+        "y": 286
+      },
+      {
+        "text": "Our Best Rooms",
+        "y": 6000
+      },
+      {
+        "text": "Deluxe room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Economy Classic Room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Triple Classic Room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Business Class Room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Royal Class Room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Superior Ocean Room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Standard Room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Double Room",
+        "y": 6718
+      },
+      {
+        "text": "Details",
+        "y": 146
+      },
+      {
+        "text": "Feedback from our Guests",
+        "y": 7059
+      },
+      {
+        "text": "Oscar Newman",
+        "y": 7539
+      },
+      {
+        "text": "Emma Trueman",
+        "y": 7497
+      },
+      {
+        "text": "Viktoria Freeman",
+        "y": 7539
+      },
+      {
+        "text": "Paul Oldman",
+        "y": 7539
+      },
+      {
+        "text": "Search your Room",
+        "y": 514
+      },
+      {
+        "text": "Table Reservation",
+        "y": 540
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #1",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Home #2",
+        "url": "https://kinsley.bslthemes.com/home-2/"
+      },
+      {
+        "text": "Home #3",
+        "url": "https://kinsley.bslthemes.com/home-3/"
+      },
+      {
+        "text": "About",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Services",
+        "url": "https://kinsley.bslthemes.com/services-list/"
+      },
+      {
+        "text": "404",
+        "url": "https://kinsley.bslthemes.com/kinsley/404/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #1",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Rooms List #2",
+        "url": "https://kinsley.bslthemes.com/accommodations-2/"
+      },
+      {
+        "text": "Rooms List #3",
+        "url": "https://kinsley.bslthemes.com/rooms-3/"
+      },
+      {
+        "text": "Rooms List #4",
+        "url": "https://kinsley.bslthemes.com/rooms-4/"
+      },
+      {
+        "text": "Rooms List #5",
+        "url": "https://kinsley.bslthemes.com/rooms-5/"
+      },
+      {
+        "text": "Room Details",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "Search Availability",
+        "url": "https://kinsley.bslthemes.com/search-availability/"
+      },
+      {
+        "text": "Booking Account",
+        "url": "https://kinsley.bslthemes.com/booking-account/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Our Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "Menu #1",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Menu #2",
+        "url": "https://kinsley.bslthemes.com/menu-list/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog List",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Blog Single",
+        "url": "https://kinsley.bslthemes.com/2021/10/20/the-best-travel-insurance-companies-for-seniors/"
+      },
+      {
+        "text": "Shop",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product List",
+        "url": "https://kinsley.bslthemes.com/shop/"
+      },
+      {
+        "text": "Product Single",
+        "url": "https://kinsley.bslthemes.com/product/v-neck-t-shirt/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://kinsley.bslthemes.com/cart/"
+      },
+      {
+        "text": "Checkout",
+        "url": "https://kinsley.bslthemes.com/checkout/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/gallery/#booknow"
+      },
+      {
+        "text": "Book now",
+        "url": "https://kinsley.bslthemes.com/gallery/#booknow"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "Gallery",
+        "url": ""
+      },
+      {
+        "text": "All Photos",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "Beach",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "Hotel",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/gallery/#"
+      },
+      {
+        "text": "All rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Deluxe room",
+        "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Luxe",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/luxe/"
+      },
+      {
+        "text": "Economy Classic Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/economy-classic-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Economy",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/economy/"
+      },
+      {
+        "text": "Triple Classic Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/triple-classic-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Standard",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/standard/"
+      },
+      {
+        "text": "Business Class Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/business-class-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Luxe",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/luxe/"
+      },
+      {
+        "text": "Royal Class Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/royal-class-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Luxe",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/luxe/"
+      },
+      {
+        "text": "Superior Ocean Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/superior-ocean-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Standard",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/standard/"
+      },
+      {
+        "text": "Standard Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/standard-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Economy",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/economy/"
+      },
+      {
+        "text": "Double Room",
+        "url": "https://kinsley.bslthemes.com/accommodation/double-room/"
+      },
+      {
+        "text": "4 private pools",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/4-private-pools/"
+      },
+      {
+        "text": "Air-conditioned",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/air-conditioning/"
+      },
+      {
+        "text": "Airport transfer",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/airport-transfer/"
+      },
+      {
+        "text": "All inclusive",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/all-inclusive/"
+      },
+      {
+        "text": "Free wi-fi",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/wifi/"
+      },
+      {
+        "text": "Laundry",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/laundry/"
+      },
+      {
+        "text": "Smart TV",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/smart-tv/"
+      },
+      {
+        "text": "Under protection",
+        "url": "https://kinsley.bslthemes.com/accommodation-facility/under-protection/"
+      },
+      {
+        "text": "Economy",
+        "url": "https://kinsley.bslthemes.com/accommodation-category/economy/"
+      },
+      {
+        "text": "Home",
+        "url": "https://kinsley.bslthemes.com/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://kinsley.bslthemes.com/about/"
+      },
+      {
+        "text": "Rooms",
+        "url": "https://kinsley.bslthemes.com/accommodations/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://kinsley.bslthemes.com/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://kinsley.bslthemes.com/contact/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://kinsley.bslthemes.com/faq/"
+      },
+      {
+        "text": "Gallery",
+        "url": "https://kinsley.bslthemes.com/gallery/"
+      },
+      {
+        "text": "Menu",
+        "url": "https://kinsley.bslthemes.com/menu/"
+      },
+      {
+        "text": "Restaurant",
+        "url": "https://kinsley.bslthemes.com/restaurant/"
+      },
+      {
+        "text": "bslthemes Team",
+        "url": "https://bslthemes.com/"
+      },
+      {
+        "text": "Close Panel",
+        "url": "https://kinsley.bslthemes.com/gallery/#close"
+      },
+      {
+        "text": "Remove Panel",
+        "url": "https://kinsley.bslthemes.com/gallery/#remove"
+      },
+      {
+        "text": "Help",
+        "url": "https://kinsley.bslthemes.com/gallery/#help"
+      },
+      {
+        "text": "Buy Theme",
+        "url": "https://bslthemes.com/products/kinsley-hotel-wordpress-theme/?utm_source=sticky_panel&utm_medium=referral&utm_campaign=sticky_panel"
+      },
+      {
+        "text": "Demo / Related",
+        "url": "https://kinsley.bslthemes.com/gallery/#related"
+      }
+    ],
+    "sliders": [
+      {
+        "class": "swiper-container knsl-uni-slider attr-details-amenity-false attr-details-category-false attr-details-attributes-false attr-details-view-false attr-details-bed-type-false attr-details-children-false swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress swiper-backface-hidden",
+        "width": 370,
+        "slides": 8,
+        "initialized": true,
+        "params": {
+          "slidesPerView": 1,
+          "spaceBetween": 20,
+          "loop": false
+        }
+      }
+    ],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": "knsl-preloader-frame knsl-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "elementor-element elementor-element-4e17e98 elementor-widget elementor-widget-kinsley-header-menu"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-minicart-window"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "A",
+        "class": "knsl-gallery-item knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "mphb_sc_room-wrapper knsl-scroll-animation"
+      },
+      {
+        "tag": "DIV",
+        "class": "swiper-slider knsl-testimonials-slider knsl-scroll-animation swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress swiper-backface-hidden"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-popup-frame knsl-popup-frame-2"
+      },
+      {
+        "tag": "DIV",
+        "class": "knsl-book-form knsl-book-form-v knsl-book-popup"
+      }
+    ]
+  },
+  {
+    "name": "services",
+    "width": 1440,
+    "title": "Bot Verification",
+    "url": "https://kinsley.bslthemes.com/services-list/",
+    "height": 230,
+    "headings": [
+      {
+        "text": "Verifying that you are not a robot...",
+        "y": 182
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": ""
+      }
+    ]
+  },
+  {
+    "name": "services",
+    "width": 390,
+    "title": "Bot Verification",
+    "url": "https://kinsley.bslthemes.com/services-list/",
+    "height": 257,
+    "headings": [
+      {
+        "text": "Verifying that you are not a robot...",
+        "y": 77
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "rooms",
+    "width": 1440,
+    "title": "Bot Verification",
+    "url": "https://kinsley.bslthemes.com/accommodations/",
+    "height": 230,
+    "headings": [
+      {
+        "text": "Verifying that you are not a robot...",
+        "y": 182
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": [
+      {
+        "tag": "DIV",
+        "class": ""
+      }
+    ]
+  },
+  {
+    "name": "rooms",
+    "width": 390,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/accommodations/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "room-detail",
+    "width": 1440,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "room-detail",
+    "width": 390,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/accommodation/deluxe-room/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "restaurant",
+    "width": 1440,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/restaurant/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "restaurant",
+    "width": 390,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/restaurant/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "contact",
+    "width": 1440,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/contact/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "contact",
+    "width": 390,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/contact/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "blog",
+    "width": 1440,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/blog/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  },
+  {
+    "name": "blog",
+    "width": 390,
+    "title": "403 Forbidden",
+    "url": "https://kinsley.bslthemes.com/blog/",
+    "height": 1000,
+    "headings": [
+      {
+        "text": "403",
+        "y": 300
+      },
+      {
+        "text": "Forbidden",
+        "y": 470
+      }
+    ],
+    "links": [],
+    "sliders": [],
+    "faded": []
+  }
+]
