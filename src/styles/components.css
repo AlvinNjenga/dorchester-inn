@@ -1,5 +1,28 @@
 /* Repeated patterns only; ordinary spacing/radii remain Tailwind utilities. */
 @layer components {
+  .header-nav-item {
+    @apply relative inline-flex min-h-20 items-center justify-center px-4 text-sm/normal font-normal tracking-wide text-surface no-underline;
+  }
+
+  .header-nav-item::after {
+    content: '';
+    @apply absolute inset-x-4 bottom-0 h-1 rounded-t-sm bg-gold opacity-0;
+  }
+
+  .header-nav-item:hover,
+  .header-nav-item[aria-current="page"],
+  .header-nav-item[data-section-active="true"] {
+    @apply text-gold;
+    text-decoration: none;
+  }
+
+  .header-nav-item:hover::after,
+  .header-nav-item:focus-visible::after,
+  .header-nav-item[aria-current="page"]::after,
+  .header-nav-item[data-section-active="true"]::after {
+    opacity: 1;
+  }
+
   /* 1220px cap includes no padding. Apply once inside each full-width band.
      At small widths reserve 20px gutters, then 32px tablet / 40px desktop. */
   .site-container {
@@ -13,6 +36,18 @@
 
   .button-primary:where(:not(:disabled, [aria-disabled="true"])):hover {
     @apply underline decoration-2 underline-offset-4;
+  }
+
+  .booking-button:hover,
+  .booking-button:focus-visible {
+    text-decoration: none;
+  }
+
+  .booking-button:hover svg,
+  .booking-button:focus-visible svg {
+    fill: var(--color-brand-logo);
+    stroke: var(--color-brand-logo);
+    stroke-width: 2.5;
   }
 
   .button-primary:disabled,

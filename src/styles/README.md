@@ -25,7 +25,7 @@ Custom heading/body sizes include line heights and update at the desktop breakpo
 
 Use navy (`primary`) text on gold actions, white (`surface`) on dark navy surfaces, and muted text as a stronger control border. Gold-muted and border colours are decorative.
 
-Removed unused semantic aliases and speculative component-library variables. Add semantic roles only when an actual component needs them. This simplifies the earlier plan's proposed shadcn mapping; no component library is currently installed.
+shadcn/ui was installed on 28 October 2026. A small semantic mapping in `tokens.css` supplies its component colour names from the existing palette; it does not duplicate brand values or replace Tailwind defaults. Animation helpers are imported in `index.css`. See [shadcn setup and guidance](../../docs/SHADCN_UI.md) before adding components.
 
 `base.css` applies the fonts, light palette, responsive typography, link defaults and control font inheritance. It preserves the browser-controlled root size and full-height app layout. Keyboard focus combines a white inner band and navy outer outline, with a system-colour outline in forced-colour mode.
 
@@ -35,7 +35,7 @@ Removed unused semantic aliases and speculative component-library variables. Add
 - `button-primary`: navy text on gold, pill shape, 44px minimum height, hover underline and disabled styling. Use a native button for actions and a link for navigation. `aria-disabled` only styles a link; callers must implement its disabled behaviour if needed. Native disabled buttons need no extra handling.
 - `form-control`: labelled text inputs, selects and textareas; 44px minimum height, white fill and a stronger muted-text border. Keep labels visible and associate help/errors using IDs. This class does not apply to checkboxes/radios or provide validation logic.
 
-Reading panels use `mx-auto max-w-article` (800px cap) and inner text can use `max-w-prose` (70ch). The article placeholder now demonstrates the panel width. Section spacing stays ordinary `py-12 lg:py-20` or `py-16 lg:py-24` utilities. No extra spacing tokens or component library are needed.
+Reading panels use `mx-auto max-w-article` (800px cap) and inner text can use `max-w-prose` (70ch). The article placeholder now demonstrates the panel width. Section spacing stays ordinary `py-12 lg:py-20` or `py-16 lg:py-24` utilities. These layout patterns remain ordinary Tailwind/HTML and do not need shadcn components.
 
 ## Temporary style sample
 

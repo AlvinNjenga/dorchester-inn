@@ -11,6 +11,7 @@
   --color-text-muted: #555B64;
   --color-forest: #263B36;
   --color-border: #E3DED4;
+  --color-destructive: #B42318;
 
   --font-body: 'Inter', system-ui, 'Segoe UI', Roboto, sans-serif;
   --font-heading: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
@@ -30,6 +31,26 @@
   --container-main: 76.25rem; /* 1220px */
   --container-article: 50rem; /* 800px, including padding */
   --container-prose: 70ch;
+}
+
+/* Names used by shadcn components. Reuse the existing palette; do not
+   redefine primary/background/border or Tailwind's default radius scale. */
+@theme inline {
+  --color-foreground: var(--color-primary);
+  --color-card: var(--color-surface);
+  --color-card-foreground: var(--color-primary);
+  --color-popover: var(--color-surface);
+  --color-popover-foreground: var(--color-primary);
+  --color-primary-foreground: var(--color-surface);
+  --color-secondary: var(--color-gold);
+  --color-secondary-foreground: var(--color-primary);
+  --color-muted: var(--color-background);
+  --color-muted-foreground: var(--color-text-muted);
+  --color-accent: var(--color-background);
+  --color-accent-foreground: var(--color-primary);
+  --color-destructive-foreground: var(--color-surface);
+  --color-input: var(--color-text-muted);
+  --color-ring: var(--color-primary);
 }
 
 /* Override the same variables on desktop; no second naming layer.

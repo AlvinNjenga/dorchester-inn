@@ -1,4 +1,5 @@
-import { Link, NavLink, Outlet, useNavigation } from 'react-router'
+import { Outlet, useNavigation } from 'react-router'
+import SiteHeader from '@/components/SiteHeader'
 import RouteLoading from '@/components/RouteLoading'
 import DevelopmentNavigation from '@/components/DevelopmentNavigation'
 
@@ -13,20 +14,7 @@ export default function SiteLayout() {
         Skip to main content
       </a>
 
-      <header className="border-b border-border py-6">
-        <div className="site-container">
-        <Link className="mb-4 inline-block text-xl font-semibold text-primary underline underline-offset-[0.2em]" to="/">Dorchester Inn</Link>
-        <nav aria-label="Main navigation">
-          <ul role="list" className="flex flex-wrap gap-x-5 gap-y-2 [&_a]:inline-block [&_a]:py-2 [&_a]:text-primary [&_a]:underline [&_a]:underline-offset-[0.2em] [&_a[aria-current=page]]:font-semibold [&_a[aria-current=page]]:decoration-[0.15em]">
-            <li><NavLink to="/" end>Home</NavLink></li>
-            <li><NavLink to="/rooms">Rooms</NavLink></li>
-            <li><NavLink to="/services">Services</NavLink></li>
-            <li><NavLink to="/contact">Contact us</NavLink></li>
-            <li><NavLink to="/make-a-booking">Make a booking</NavLink></li>
-          </ul>
-        </nav>
-        </div>
-      </header>
+      <SiteHeader />
 
       <main id="main-content" className="site-container flex-1 wrap-anywhere py-12 lg:py-20" tabIndex={-1} aria-busy={navigation.state !== 'idle'}>
         {navigation.state !== 'idle' && <RouteLoading />}
