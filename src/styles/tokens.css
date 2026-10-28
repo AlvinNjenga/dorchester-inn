@@ -1,0 +1,50 @@
+/* Custom design values only. Use Tailwind defaults for spacing, weights,
+   radii, control sizes and breakpoints. See the rebuild plan, sections 4-5. */
+@theme {
+  --color-brand-logo: #030128;
+  --color-primary: #14243A;
+  --color-primary-dark: #0D1929;
+  --color-gold: #FCC95E;
+  --color-gold-muted: #C6A15B;
+  --color-background: #F7F4ED;
+  --color-surface: #FFFFFF;
+  --color-text-muted: #555B64;
+  --color-forest: #263B36;
+  --color-border: #E3DED4;
+
+  --font-body: 'Inter', system-ui, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+
+  --text-hero: clamp(2.5rem, 10vw, 3rem);
+  --text-hero--line-height: 1.08;
+  --text-h1: clamp(2.25rem, 8vw, 2.625rem);
+  --text-h1--line-height: 1.15;
+  --text-h2: clamp(1.875rem, 6vw, 2.125rem);
+  --text-h2--line-height: 1.2;
+  --text-h3: clamp(1.375rem, 4vw, 1.5rem);
+  --text-h3--line-height: 1.2;
+  --text-body: 1rem;
+  --text-body--line-height: 1.6;
+
+  --shadow-card: 0 10px 30px rgb(20 36 58 / 6%);
+  --container-main: 76.25rem; /* 1220px */
+  --container-article: 50rem; /* 800px, including padding */
+  --container-prose: 70ch;
+}
+
+/* Override the same variables on desktop; no second naming layer.
+   Base-layer values take precedence over theme-layer defaults. */
+@layer base {
+  @media (min-width: 64rem) {
+    :root {
+      --text-hero: clamp(3rem, 5.4vw, 4.875rem);
+      --text-h1: clamp(3.5rem, 4.45vw, 4rem);
+      --text-h1--line-height: 1.1;
+      --text-h2: clamp(2.375rem, 3.1vw, 2.75rem);
+      --text-h2--line-height: 1.15;
+      --text-h3: clamp(1.4375rem, 1.85vw, 1.625rem);
+      --text-body: 1.125rem;
+      --text-body--line-height: 1.65;
+    }
+  }
+}

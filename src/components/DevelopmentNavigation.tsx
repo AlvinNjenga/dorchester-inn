@@ -31,13 +31,16 @@ export default function DevelopmentNavigation() {
             <NavLink
               to={to}
               end
-              className="inline-block py-2 text-[var(--text-h)] underline underline-offset-[0.2em] wrap-anywhere aria-[current=page]:font-bold aria-[current=page]:decoration-2"
+              className="inline-block py-2 text-primary underline underline-offset-[0.2em] wrap-anywhere aria-[current=page]:font-semibold aria-[current=page]:decoration-2"
             >
               {label}
             </NavLink>
           </li>
         ))}
       </ul>
+      {import.meta.env.DEV && (
+        <p><NavLink to="/__style-sample">Development style sample</NavLink></p>
+      )}
     </nav>
   )
 }

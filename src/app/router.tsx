@@ -16,6 +16,10 @@ export const router = createBrowserRouter([
       {
         ErrorBoundary: RouteError,
         children: [
+          ...(import.meta.env.DEV ? [{
+            path: '__style-sample',
+            lazy: async () => ({ Component: (await import('@/pages/StyleSamplePage')).default }),
+          }] : []),
           {
             index: true,
             lazy: async () => ({ Component: (await import('@/pages/HomePage')).default }),

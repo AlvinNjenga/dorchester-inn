@@ -1,0 +1,84 @@
+/* Shared element defaults stay below Tailwind utilities in the cascade. */
+@layer base {
+  :root {
+    color-scheme: light;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-family: var(--font-body);
+    font-size: var(--text-body);
+    line-height: var(--text-body--line-height);
+    color: var(--color-text-muted);
+    background-color: var(--color-background);
+  }
+
+  #root {
+    display: flex;
+    min-height: 100svh;
+    flex-direction: column;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-primary);
+  }
+
+  h1 {
+    font-size: var(--text-h1);
+    line-height: var(--text-h1--line-height);
+  }
+
+  h2 {
+    font-size: var(--text-h2);
+    line-height: var(--text-h2--line-height);
+  }
+
+  h3 {
+    font-size: var(--text-h3);
+    line-height: var(--text-h3--line-height);
+  }
+
+  h4, h5, h6 {
+    font-size: var(--text-lg);
+    line-height: var(--text-lg--line-height);
+  }
+
+  b, strong {
+    font-weight: var(--font-weight-semibold);
+  }
+
+  a {
+    color: var(--color-primary);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
+  a:hover {
+    text-decoration-thickness: 0.15em;
+  }
+
+  button, input, select, textarea {
+    font: inherit;
+    letter-spacing: inherit;
+  }
+
+  /* White inner band and navy outer outline remain distinct on both light
+     and dark surfaces. Outline also survives Windows forced-colour mode. */
+  :focus-visible {
+    box-shadow: 0 0 0 3px var(--color-surface);
+    outline: 3px solid var(--color-primary);
+    outline-offset: 3px;
+  }
+
+  @media (forced-colors: active) {
+    :focus-visible {
+      box-shadow: none;
+      outline-color: Highlight;
+    }
+  }
+}

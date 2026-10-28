@@ -1,0 +1,40 @@
+/* Repeated patterns only; ordinary spacing/radii remain Tailwind utilities. */
+@layer components {
+  /* 1220px cap includes no padding. Apply once inside each full-width band.
+     At small widths reserve 20px gutters, then 32px tablet / 40px desktop. */
+  .site-container {
+    @apply mx-auto w-[calc(100%-2.5rem)] max-w-main md:w-[calc(100%-4rem)] lg:w-[calc(100%-5rem)];
+  }
+
+  .button-primary {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-center text-base/normal font-semibold text-primary no-underline;
+    overflow-wrap: anywhere;
+  }
+
+  .button-primary:where(:not(:disabled, [aria-disabled="true"])):hover {
+    @apply underline decoration-2 underline-offset-4;
+  }
+
+  .button-primary:disabled,
+  .button-primary[aria-disabled="true"] {
+    @apply cursor-not-allowed opacity-60;
+  }
+
+  /* Explicit class for text inputs, selects and textareas; not checkboxes.
+     Muted text colour provides a stronger boundary than decorative borders. */
+  .form-control {
+    @apply min-h-11 w-full min-w-0 rounded-lg border border-text-muted bg-surface px-4 py-3 text-base/normal text-primary;
+  }
+
+  .form-control::placeholder {
+    @apply text-text-muted opacity-100;
+  }
+
+  .form-control:disabled {
+    @apply cursor-not-allowed bg-background opacity-60;
+  }
+
+  textarea.form-control {
+    @apply min-h-32 resize-y;
+  }
+}

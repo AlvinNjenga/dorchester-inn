@@ -1,0 +1,31 @@
+{
+  "views": [
+    {
+      "width": 390,
+      "overflow": false,
+      "fonts": [
+        "Inter 400",
+        "Inter 500",
+        "Inter 600",
+        "Cormorant Garamond 500",
+        "Cormorant Garamond 600"
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "fonts": [
+        "Inter 400",
+        "Inter 500",
+        "Inter 600",
+        "Cormorant Garamond 500",
+        "Cormorant Garamond 600"
+      ]
+    }
+  ],
+  "action": "passed",
+  "inputs": "passed",
+  "disabledSkipped": "passed",
+  "keyboardFocus": "passed",
+  "hover": "passed"
+}

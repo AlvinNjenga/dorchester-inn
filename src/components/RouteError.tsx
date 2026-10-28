@@ -11,7 +11,7 @@ export default function RouteError() {
 
   return (
     <section className="space-y-4 p-4">
-      <h1 className="text-3xl font-semibold">
+      <h1>
         Unable to load this page
       </h1>
       <p>Please try again. If the problem continues, contact us.</p>
