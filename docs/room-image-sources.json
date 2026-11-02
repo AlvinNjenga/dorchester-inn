@@ -1,0 +1,92 @@
+﻿[
+    {
+        "tier":  "basic",
+        "page":  "https://dorchesterinnke.com/basic-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/Dorchester-basic-double-room-2-1024x768.jpg",
+        "file":  "src/assets/rooms/Dorchester-basic-double-room-2-1024x768.jpg"
+    },
+    {
+        "tier":  "basic",
+        "page":  "https://dorchesterinnke.com/basic-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/Dorchester-basic-double-room-1024x768.jpg",
+        "file":  "src/assets/rooms/Dorchester-basic-double-room-1024x768.jpg"
+    },
+    {
+        "tier":  "basic",
+        "page":  "https://dorchesterinnke.com/basic-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/Dorchester-basic-double-room-5-1024x768.jpg",
+        "file":  "src/assets/rooms/Dorchester-basic-double-room-5-1024x768.jpg"
+    },
+    {
+        "tier":  "basic",
+        "page":  "https://dorchesterinnke.com/basic-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/Dorchester-basic-double-room-6-1024x768.jpg",
+        "file":  "src/assets/rooms/Dorchester-basic-double-room-6-1024x768.jpg"
+    },
+    {
+        "tier":  "basic",
+        "page":  "https://dorchesterinnke.com/basic-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/Dorchester-basic-double-room-4-1024x768.jpg",
+        "file":  "src/assets/rooms/Dorchester-basic-double-room-4-1024x768.jpg"
+    },
+    {
+        "tier":  "standard",
+        "page":  "https://dorchesterinnke.com/standard-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/Double-Room-Photo-1024x768.jpg",
+        "file":  "src/assets/rooms/Double-Room-Photo-1024x768.jpg"
+    },
+    {
+        "tier":  "standard",
+        "page":  "https://dorchesterinnke.com/standard-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-2-1024x768.jpg",
+        "file":  "src/assets/rooms/double-room-photo-2-1024x768.jpg"
+    },
+    {
+        "tier":  "standard",
+        "page":  "https://dorchesterinnke.com/standard-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-3-1024x768.jpg",
+        "file":  "src/assets/rooms/double-room-photo-3-1024x768.jpg"
+    },
+    {
+        "tier":  "standard",
+        "page":  "https://dorchesterinnke.com/standard-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-4-1024x663.jpg",
+        "file":  "src/assets/rooms/double-room-photo-4-1024x663.jpg"
+    },
+    {
+        "tier":  "standard",
+        "page":  "https://dorchesterinnke.com/standard-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-5-1024x768.jpg",
+        "file":  "src/assets/rooms/double-room-photo-5-1024x768.jpg"
+    },
+    {
+        "tier":  "deluxe",
+        "page":  "https://dorchesterinnke.com/deluxe-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/Double-Room-Photo-1024x768.jpg",
+        "file":  "src/assets/rooms/Double-Room-Photo-1024x768.jpg"
+    },
+    {
+        "tier":  "deluxe",
+        "page":  "https://dorchesterinnke.com/deluxe-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-2-1024x768.jpg",
+        "file":  "src/assets/rooms/double-room-photo-2-1024x768.jpg"
+    },
+    {
+        "tier":  "deluxe",
+        "page":  "https://dorchesterinnke.com/deluxe-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-3-1024x768.jpg",
+        "file":  "src/assets/rooms/double-room-photo-3-1024x768.jpg"
+    },
+    {
+        "tier":  "deluxe",
+        "page":  "https://dorchesterinnke.com/deluxe-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-4-1024x663.jpg",
+        "file":  "src/assets/rooms/double-room-photo-4-1024x663.jpg"
+    },
+    {
+        "tier":  "deluxe",
+        "page":  "https://dorchesterinnke.com/deluxe-double-room/",
+        "source":  "https://dorchesterinnke.com/wp-content/uploads/2024/04/double-room-photo-5-1024x768.jpg",
+        "file":  "src/assets/rooms/double-room-photo-5-1024x768.jpg"
+    }
+]

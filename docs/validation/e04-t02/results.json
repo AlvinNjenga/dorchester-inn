@@ -1,0 +1,54 @@
+{
+  "views": [
+    {
+      "width": 390,
+      "columns": 1,
+      "imagesAndPrices": "pass",
+      "servicePlaceholders": "pass",
+      "headingOrder": "pass",
+      "uniqueIds": "pass",
+      "omittedDetails": "pass",
+      "noninteractiveAmenities": "pass",
+      "overflow": false,
+      "keyboardDestinations": 6
+    },
+    {
+      "width": 768,
+      "columns": 2,
+      "imagesAndPrices": "pass",
+      "servicePlaceholders": "pass",
+      "headingOrder": "pass",
+      "uniqueIds": "pass",
+      "omittedDetails": "pass",
+      "noninteractiveAmenities": "pass",
+      "overflow": false,
+      "keyboardDestinations": 6
+    },
+    {
+      "width": 1440,
+      "columns": 3,
+      "imagesAndPrices": "pass",
+      "servicePlaceholders": "pass",
+      "headingOrder": "pass",
+      "uniqueIds": "pass",
+      "omittedDetails": "pass",
+      "noninteractiveAmenities": "pass",
+      "overflow": false,
+      "keyboardDestinations": 6
+    },
+    {
+      "width": 1600,
+      "columns": 3,
+      "imagesAndPrices": "pass",
+      "servicePlaceholders": "pass",
+      "headingOrder": "pass",
+      "uniqueIds": "pass",
+      "omittedDetails": "pass",
+      "noninteractiveAmenities": "pass",
+      "overflow": false,
+      "keyboardDestinations": 6
+    }
+  ],
+  "doubledTextNoOverflow": true,
+  "pageErrors": []
+}

@@ -18,7 +18,18 @@ export const router = createBrowserRouter([
         children: [
           ...(import.meta.env.DEV ? [{
             path: '__style-sample',
+            handle: { fullWidth: true },
             lazy: async () => ({ Component: (await import('@/pages/StyleSamplePage')).default }),
+          }, {
+            path: '__service-sample/:sampleSlug',
+            handle: { fullWidth: true },
+            loader: ({ params }: { params: { sampleSlug?: string } }) => {
+              if (!['lounge', 'massage-chair', 'content-check', 'minimal'].includes(params.sampleSlug ?? '')) {
+                throw new Response('Development sample not found', { status: 404 })
+              }
+              return null
+            },
+            lazy: async () => ({ Component: (await import('@/pages/ServiceDetailSamplePage')).default }),
           }] : []),
           {
             index: true,

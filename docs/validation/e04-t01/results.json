@@ -1,0 +1,51 @@
+{
+  "views": [
+    {
+      "width": 390,
+      "headingOrder": "pass",
+      "fullWidthBand": "pass",
+      "mosaicOrder": "pass",
+      "optionalAction": "pass",
+      "overflow": false,
+      "keyboardAction": "pass",
+      "disabledSkipped": "pass",
+      "routeAndHistory": "pass"
+    },
+    {
+      "width": 768,
+      "headingOrder": "pass",
+      "fullWidthBand": "pass",
+      "mosaicOrder": "pass",
+      "optionalAction": "pass",
+      "overflow": false,
+      "keyboardAction": "pass",
+      "disabledSkipped": "pass",
+      "routeAndHistory": "pass"
+    },
+    {
+      "width": 1440,
+      "headingOrder": "pass",
+      "fullWidthBand": "pass",
+      "mosaicOrder": "pass",
+      "optionalAction": "pass",
+      "overflow": false,
+      "keyboardAction": "pass",
+      "disabledSkipped": "pass",
+      "routeAndHistory": "pass"
+    },
+    {
+      "width": 1600,
+      "headingOrder": "pass",
+      "fullWidthBand": "pass",
+      "mosaicOrder": "pass",
+      "optionalAction": "pass",
+      "overflow": false,
+      "keyboardAction": "pass",
+      "disabledSkipped": "pass",
+      "routeAndHistory": "pass"
+    }
+  ],
+  "doubledTextNoOverflow": true,
+  "suppliedImagesLoadedInOrder": true,
+  "productionImageApproval": "not established by development sample"
+}

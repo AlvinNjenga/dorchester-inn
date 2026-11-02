@@ -32,7 +32,7 @@ shadcn/ui was installed on 28 October 2026. A small semantic mapping in `tokens.
 `components.css` contains three repeated patterns:
 
 - `site-container`: centred 1220px cap with 20/32/40px minimum gutters. Place once inside a full-width band; do not add horizontal padding or nest containers. The current main element already provides it. Future full-bleed sections will need their own inner container instead.
-- `button-primary`: navy text on gold, pill shape, 44px minimum height, hover underline and disabled styling. Use a native button for actions and a link for navigation. `aria-disabled` only styles a link; callers must implement its disabled behaviour if needed. Native disabled buttons need no extra handling.
+- `button-primary`: navy text on gold, pill shape, 44px minimum height, deeper-gold hover with a 1px lift, darker pressed state and disabled styling (motion is disabled for reduced-motion preferences). Use a native button for actions and a link for navigation. `aria-disabled` only styles a link; callers must implement its disabled behaviour if needed. Native disabled buttons need no extra handling.
 - `form-control`: labelled text inputs, selects and textareas; 44px minimum height, white fill and a stronger muted-text border. Keep labels visible and associate help/errors using IDs. This class does not apply to checkboxes/radios or provide validation logic.
 
 Reading panels use `mx-auto max-w-article` (800px cap) and inner text can use `max-w-prose` (70ch). The article placeholder now demonstrates the panel width. Section spacing stays ordinary `py-12 lg:py-20` or `py-16 lg:py-24` utilities. These layout patterns remain ordinary Tailwind/HTML and do not need shadcn components.
@@ -44,3 +44,4 @@ Run Vite and visit `/__style-sample`, or use the Development style sample link i
 The sample covers typography (including all five font weights), long text, reading width, light/navy surfaces, cards, links, action/disabled controls, labelled inputs, a select and a textarea. Hover and keyboard focus are real interaction states, not permanently styled imitations. The sample action updates a local status message and sends no data.
 
 E03-T01 is complete. See [validation evidence](../../docs/validation/e03-t01/README.md) for viewport, text-resize, contrast, keyboard and blocked-font checks and their limits. Remove the temporary page, route and footer link when the sample is no longer needed.
+

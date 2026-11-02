@@ -30,12 +30,44 @@
   }
 
   .button-primary {
-    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-center text-base/normal font-semibold text-primary no-underline;
+    @apply inline-flex min-h-11 cursor-pointer select-none items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-center text-base/normal font-semibold text-primary no-underline;
     overflow-wrap: anywhere;
+    transition: background-color 150ms ease, translate 150ms ease;
   }
 
   .button-primary:where(:not(:disabled, [aria-disabled="true"])):hover {
-    @apply underline decoration-2 underline-offset-4;
+    @apply bg-gold-hover no-underline;
+  }
+
+  .button-primary:focus-visible {
+    @apply bg-gold-hover;
+    outline: none;
+    box-shadow: none;
+  }
+
+  @media (forced-colors: active) {
+    .button-primary:focus-visible {
+      color: HighlightText;
+      background-color: Highlight;
+      forced-color-adjust: none;
+    }
+  }
+
+  @media (hover: hover) and (prefers-reduced-motion: no-preference) {
+    .button-primary:where(:not(:disabled, [aria-disabled="true"])):hover {
+      translate: 0 -1px;
+    }
+  }
+
+  .button-primary:where(:not(:disabled, [aria-disabled="true"])):active {
+    @apply bg-gold-pressed no-underline;
+    translate: 0 0;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .button-primary {
+      transition: none;
+    }
   }
 
   .booking-button:hover,

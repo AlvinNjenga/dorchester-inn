@@ -53,6 +53,8 @@ These pages exist as public links even though they are outside the 17 main pages
 
 ## Decisions and implementation notes
 
+- **Owner clarification, 30 October 2026:** use Basic USD $15 / KES 1,500, Standard USD $20 / KES 2,000 and Deluxe USD $60 / KES 6,500, all per night. These are supplied fixed prices, not calculated conversions; the latest Deluxe amount supersedes KES 7,000. Cocktail happy hour applies only to cocktails; Lounge access is included without an additional charge; Massage Chair sessions are 15–30 minutes with a staying-guest discount and prices to be confirmed. See [catalogue content decisions](CATALOGUE_CONTENT_DECISIONS.md) for outstanding details. This supersedes the historical price conflict below as a price-selection decision; taxes and inclusions remain unconfirmed.
+
 - **Workflow decision, 26 October 2026:** [EXTERNAL_WORKFLOWS_AND_HOSTING.md](EXTERNAL_WORKFLOWS_AND_HOSTING.md) records E01-T04. Keep original WordPress booking/contact/private-feedback forms and use explicit external handoffs plus phone/email. Preserve those original URLs; redirect proposals above apply only to a future migration after their workflows are replaced. `/leave-a-review` will link to private feedback, not unverified public review profiles. Existing map queries were extracted; exact property-result verification belongs to E08-T03. E01-T03 was marked complete at owner request; earlier audit gaps are historical findings, not newly verified facts.
 
 - **Price conflict:** the booking form lists room options at $25/$45/$85, while room/rates pages list $15/$20/$60. E01-T03 must establish one current tariff, currency, billing interval and inclusions before prices are published. Source payment instructions also require explicit verification.

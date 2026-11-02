@@ -1,0 +1,154 @@
+{
+  "views": [
+    {
+      "width": 390,
+      "slug": "lounge",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "slug": "massage-chair",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "slug": "content-check",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "slug": "minimal",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "slug": "lounge",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "slug": "massage-chair",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "slug": "content-check",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "slug": "minimal",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "slug": "lounge",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "slug": "massage-chair",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "slug": "content-check",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "slug": "minimal",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "slug": "lounge",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "slug": "massage-chair",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "slug": "content-check",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "slug": "minimal",
+      "headings": "pass",
+      "optionalSections": "pass",
+      "imageOrPlaceholder": "pass",
+      "keyboardBreadcrumb": "pass",
+      "overflow": false
+    }
+  ],
+  "contacts": "three selectable values and correct tel/mailto URLs at four widths",
+  "pointerContactJourneys": 8,
+  "keyboardBreadcrumbJourneys": 16,
+  "doubledTextNoOverflow": true,
+  "unknownSample": "404 recovery",
+  "pageErrors": []
+}

@@ -71,3 +71,26 @@ for (const link of [...destinations, bookingLink, ...secondaryNavigation]) {
 }
 
 export const navigationDestinations: readonly NavigationLink[] = [...uniqueDestinations.values()]
+
+function footerDestination(to: NavigationLink['to']): NavigationLink {
+  const link = navigationDestinations.find(destination => destination.to === to)
+  if (!link) throw new Error(`Missing footer destination: ${to}`)
+  return link
+}
+
+function footerGroup(id: string): readonly NavigationLink[] {
+  const group = primaryNavigation.find(item => item.id === id)
+  if (!group || group.kind !== 'group') throw new Error(`Missing footer navigation group: ${id}`)
+  return group.to
+    ? [footerDestination(group.to), ...group.children.filter(link => link.to !== group.to)]
+    : group.children
+}
+
+export const footerNavigationGroups: readonly {
+  readonly id: string
+  readonly label: string
+  readonly links: readonly NavigationLink[]
+}[] = [
+  { id: 'stay', label: 'Stay with us', links: [bookingLink, ...footerGroup('rooms'), ...footerGroup('services')] },
+  { id: 'explore', label: 'Explore and help', links: [footerDestination('/'), ...footerGroup('bar'), ...footerGroup('discover'), footerDestination('/contact'), ...secondaryNavigation] },
+]
